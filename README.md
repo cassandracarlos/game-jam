@@ -1,6 +1,6 @@
 # Game Jam!
 
-We can use this repository collect our work and research. Go to the Projects tab for a general to-do list and related info. Use the directory in the main Code tab to store any recurring assets, documents and in-depth notes on the stages of game development.
+We can use this repository to store any recurring assets, documents and in-depth notes on the stages of game development.
 
 [Skip to Contribution Guide](#how-to-use)
 
