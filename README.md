@@ -8,31 +8,31 @@ We can use this repository collect our work and research. Go to the Projects tab
 ```
 .
 │── assets
-│   │── 2d
-│   └── 3d
+│     │── 2d
+│     └── 3d
 │── career-notes
-│   │── careers-in-games
-│   │── getting-feedback
-│   └── networking-events
+│     │── careers-in-games
+│     │── getting-feedback
+│     └── networking-events
 │── coding-bible
-│   │── gdscript
-│   └── pseudocode
+│     │── gdscript
+│     └── pseudocode
 │── development-notes
-│   │── asset creation
-│   │── conceptualization
-│   │── debugging
-│   │── design
-│   │── documentation
-│   │── game-jams
-│   │── package-and-launch
-│   │── programming
-│   └── prototyping
+│     │── asset creation
+│     │── conceptualization
+│     │── debugging
+│     │── design
+│     │── documentation
+│     │── game-jams
+│     │── package-and-launch
+│     │── programming
+│     └── prototyping
 │── documentation
-│   └── ...
+│     └── ...
 │── resources
-│   │── images
-│   │── links
-│   └── miscellaneous
+│     │── images
+│     │── links
+│     └── miscellaneous
 └── README.md
 ```
 
