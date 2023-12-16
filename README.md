@@ -10,6 +10,10 @@ We can use this repository collect our work and research. Go to the Projects tab
 │── assets
 │   │── 2d
 │   └── 3d
+│── career-notes
+│   │── careers-in-games
+│   │── networking-events
+│   └── getting-feedback
 │── coding-bible
 │   │── gdscript
 │   └── logic
@@ -22,10 +26,6 @@ We can use this repository collect our work and research. Go to the Projects tab
 │   │── package-and-launch
 │   │── programming
 │   └── prototyping
-│── career-notes
-│   │── careers-in-games
-│   │── networking-events
-│   └── getting-feedback
 │── documentation
 │   └── ...
 │── resources
