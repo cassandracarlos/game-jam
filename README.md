@@ -10,14 +10,12 @@ game-jam
 │   │── prototyping
 │   │── asset creation
 │   │── programming
-│   │── iterative-development
-│   │    │── playtesting
-│   │    │── debugging
-│   │    └── polishing-graphics
+│   │── playtesting
+│   │── debugging
 │   │── documentation
 │   │    │── coding-best-practices
 │   │    └── reflect-on-development
+│   │── getting-feedback
 │   └── package-and-launch
-├── (to be added)
 └── README.md
 ```
