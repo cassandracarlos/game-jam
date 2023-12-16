@@ -1,6 +1,6 @@
 # Game Jam!
 
-We can use this repository to store any recurring assets, documents and in-depth notes on the stages of game development.
+We can use this repository to store any recurring assets, documents and notes on the stages of game development.
 
 [Skip to Contribution Guide](#how-to-use)
 
