@@ -8,24 +8,24 @@ We can use this repository collect our work and research. Go to the Projects tab
 ```
 .
 │── assets
-│   │── old-artwork
-│   │── scripts
-│   │── 2d-models
-│   └── pixel-art
+│   │── 2d
+│   └── 3d
+│── coding-bible
+│   │── gdscript
+│   └── logic
 │── development-notes
-│   │── conceptualization
-│   │── design
-│   │── prototyping
 │   │── asset creation
-│   │── programming
-│   │── playtesting
+│   │── conceptualization
 │   │── debugging
-│   │── documentation
-│   │── getting-feedback
+│   │── design
+│   │── game-jams
 │   │── package-and-launch
+│   │── programming
+│   └── prototyping
+│── career-notes
 │   │── careers-in-games
 │   │── networking-events
-│   └── game-jams
+│   └── getting-feedback
 │── documentation
 │   │── meeting minutes
 │   │   │── 2023_sept-dec
@@ -35,9 +35,8 @@ We can use this repository collect our work and research. Go to the Projects tab
 │   │   └── ...
 │   └── ...
 │── resources
-│   │── favourite-links
-│   │── programming-bible
-│   │── image-collection
+│   │── links
+│   │── images
 │   │── miscellaneous
 │   └── case-studies
 └── README.md
