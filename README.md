@@ -27,12 +27,6 @@ We can use this repository collect our work and research. Go to the Projects tab
 │   │── networking-events
 │   └── getting-feedback
 │── documentation
-│   │── meeting minutes
-│   │   │── 2023_sept-dec
-│   │   │── 2024_jan-mar
-│   │   │── 2024_apr-june
-│   │   │── 2024_july-sept
-│   │   └── ...
 │   └── ...
 │── resources
 │   │── links
