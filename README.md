@@ -12,16 +12,17 @@ We can use this repository collect our work and research. Go to the Projects tab
 │   └── 3d
 │── career-notes
 │   │── careers-in-games
-│   │── networking-events
-│   └── getting-feedback
+│   │── getting-feedback
+│   └── networking-events
 │── coding-bible
 │   │── gdscript
-│   └── logic
+│   └── pseudocode
 │── development-notes
 │   │── asset creation
 │   │── conceptualization
 │   │── debugging
 │   │── design
+│   │── documentation
 │   │── game-jams
 │   │── package-and-launch
 │   │── programming
@@ -29,10 +30,9 @@ We can use this repository collect our work and research. Go to the Projects tab
 │── documentation
 │   └── ...
 │── resources
-│   │── links
 │   │── images
-│   │── miscellaneous
-│   └── case-studies
+│   │── links
+│   └── miscellaneous
 └── README.md
 ```
 
