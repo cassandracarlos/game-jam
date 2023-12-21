@@ -1,6 +1,4 @@
 # Game Jam!
-
-## Index
 ```
 .
 │── assets
